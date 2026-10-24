@@ -1,0 +1,20 @@
+.gitignore
+FILE_MANIFEST.txt
+README.md
+database/queries/advanced_queries.sql
+database/queries/basic_queries.sql
+database/queries/validation_queries.sql
+database/sample_data.sql
+database/schema.sql
+docs/assets/original_er_diagram.png
+docs/assets/original_relational_model.png
+docs/er_diagram.md
+docs/reconstructed_project_description.md
+docs/relational_model.md
+original/#U03a3#U03c7#U03b5#U03c3#U03b9#U03b1#U03ba#U03cc 2017.pdf
+original/E-R 2017.pdf
+original/README.md
+original/code_sql.sql
+original/er.png
+original/sxesiako.png
+report.md
